@@ -24,7 +24,7 @@ class _MyAppState extends State<MyApp> {
             'My App',
             style: TextStyle(color: Colors.white),
           ),
-          backgroundColor: const Color.fromARGB(230, 0, 87, 158),
+          backgroundColor: Color.fromARGB(230, 16, 125, 214),
         ),
         body: Center(
             child: currentIndex==0 ? Container(
